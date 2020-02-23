@@ -270,4 +270,4 @@ sub comenzar {
 if($#ARGV > 4) {
     comenzar();
 } else {
-    die("[i] Use: HTTP-Gorila.pl [http://google.com/?q=] [Connections] [Requests per connection] [Method] [Initial false IP (13.37)] [Duration]\n");
+    die("[i] Use: HTTP-Gorila.pl [http://google.com/?q=] [Connections] [Requests per connection] [Method] [Initial false IP (13.37)] [Duration]\n")};
